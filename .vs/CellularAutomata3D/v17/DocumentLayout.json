@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\CellularAutomata3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\GameOfLife3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|solutionrelative:CellularAutomata3D\\GameOfLife3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\simulation3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|solutionrelative:CellularAutomata3D\\simulation3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|solutionrelative:CellularAutomata3D\\grid3d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D4F218A-B1AE-4CBC-9DD3-898AFF070654}|CellularAutomata3D\\CellularAutomata3D.vcxproj|solutionrelative:CellularAutomata3D\\grid3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grid3d.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.hpp",
+              "RelativeDocumentMoniker": "CellularAutomata3D\\grid3d.hpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.hpp",
+              "RelativeToolTip": "CellularAutomata3D\\grid3d.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T14:36:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "simulation3d.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\simulation3d.cpp",
+              "RelativeDocumentMoniker": "CellularAutomata3D\\simulation3d.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\simulation3d.cpp",
+              "RelativeToolTip": "CellularAutomata3D\\simulation3d.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T14:42:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOfLife3D.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\GameOfLife3D.cpp",
+              "RelativeDocumentMoniker": "CellularAutomata3D\\GameOfLife3D.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\GameOfLife3D.cpp",
+              "RelativeToolTip": "CellularAutomata3D\\GameOfLife3D.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T14:34:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "grid3d.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.cpp",
+              "RelativeDocumentMoniker": "CellularAutomata3D\\grid3d.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata3D\\CellularAutomata3D\\grid3d.cpp",
+              "RelativeToolTip": "CellularAutomata3D\\grid3d.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T14:34:31.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
